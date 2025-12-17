@@ -1,15 +1,21 @@
-# Aprendendo sobre ambientes python
+# Ambiente de Desenvolvimento 
 
-## Configurando a pipeline de qualidade de código em Python
+#### Configuração da pipeline de qualidade de código em Python
 
-![Com:]
-    -Python
-    -Poetry
-    -Dev_dependencies:
-        `ruff`
-        `black`
-        `pytest`
-        `pytest-cov`
-        `poethepoet`
-        `mypy`
-        `pre-commit`
+
+## 🧱 Ferramentas e Dependências
+
+### Python
+
+### Pyenv-win -> gerenciar versões
+
+### Poetry -> gerenciamento de dependências e ambientes virtuais
+
+### Dev_dependencies:
+- `ruff` -> linter 
+- `black` -> formatação automática
+- `pytest` -> testes automatizados
+- `pytest-cov` -> cobertura de testes
+- `poethepoet` -> automação de tarefas
+- `mypy` -> checagem de type hints
+- `pre-commit` -> hooks

@@ -9,3 +9,5 @@ Com:
         pytest
         pytest-cov
         poethepoet
+        mypy
+        pre-commit

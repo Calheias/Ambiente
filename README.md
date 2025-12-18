@@ -12,6 +12,7 @@
 ### Poetry -> gerenciamento de dependências e ambientes virtuais
 
 ### Dev_dependencies:
+
 - `ruff` -> linter 
 - `black` -> formatação automática
 - `pytest` -> testes automatizados
@@ -19,3 +20,11 @@
 - `poethepoet` -> automação de tarefas
 - `mypy` -> checagem de type hints
 - `pre-commit` -> hooks
+
+
+## Implementações Planejadas
+
+- `Loguru` -> logging
+- `Sentry` -> logging em servidor
+
+
